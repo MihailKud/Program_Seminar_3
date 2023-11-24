@@ -1,0 +1,15 @@
+C:\Рабочая\для работы\ГикБреинс (разработчик)\Знакомство с языками программирования\Seminar_3_Massiv\Task_04\bin\Debug\net7.0\Task_04.exe
+C:\Рабочая\для работы\ГикБреинс (разработчик)\Знакомство с языками программирования\Seminar_3_Massiv\Task_04\bin\Debug\net7.0\Task_04.deps.json
+C:\Рабочая\для работы\ГикБреинс (разработчик)\Знакомство с языками программирования\Seminar_3_Massiv\Task_04\bin\Debug\net7.0\Task_04.runtimeconfig.json
+C:\Рабочая\для работы\ГикБреинс (разработчик)\Знакомство с языками программирования\Seminar_3_Massiv\Task_04\bin\Debug\net7.0\Task_04.dll
+C:\Рабочая\для работы\ГикБреинс (разработчик)\Знакомство с языками программирования\Seminar_3_Massiv\Task_04\bin\Debug\net7.0\Task_04.pdb
+C:\Рабочая\для работы\ГикБреинс (разработчик)\Знакомство с языками программирования\Seminar_3_Massiv\Task_04\obj\Debug\net7.0\Task_04.csproj.AssemblyReference.cache
+C:\Рабочая\для работы\ГикБреинс (разработчик)\Знакомство с языками программирования\Seminar_3_Massiv\Task_04\obj\Debug\net7.0\Task_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Рабочая\для работы\ГикБреинс (разработчик)\Знакомство с языками программирования\Seminar_3_Massiv\Task_04\obj\Debug\net7.0\Task_04.AssemblyInfoInputs.cache
+C:\Рабочая\для работы\ГикБреинс (разработчик)\Знакомство с языками программирования\Seminar_3_Massiv\Task_04\obj\Debug\net7.0\Task_04.AssemblyInfo.cs
+C:\Рабочая\для работы\ГикБреинс (разработчик)\Знакомство с языками программирования\Seminar_3_Massiv\Task_04\obj\Debug\net7.0\Task_04.csproj.CoreCompileInputs.cache
+C:\Рабочая\для работы\ГикБреинс (разработчик)\Знакомство с языками программирования\Seminar_3_Massiv\Task_04\obj\Debug\net7.0\Task_04.dll
+C:\Рабочая\для работы\ГикБреинс (разработчик)\Знакомство с языками программирования\Seminar_3_Massiv\Task_04\obj\Debug\net7.0\refint\Task_04.dll
+C:\Рабочая\для работы\ГикБреинс (разработчик)\Знакомство с языками программирования\Seminar_3_Massiv\Task_04\obj\Debug\net7.0\Task_04.pdb
+C:\Рабочая\для работы\ГикБреинс (разработчик)\Знакомство с языками программирования\Seminar_3_Massiv\Task_04\obj\Debug\net7.0\Task_04.genruntimeconfig.cache
+C:\Рабочая\для работы\ГикБреинс (разработчик)\Знакомство с языками программирования\Seminar_3_Massiv\Task_04\obj\Debug\net7.0\ref\Task_04.dll
